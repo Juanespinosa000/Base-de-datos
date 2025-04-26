@@ -34,7 +34,7 @@ CREATE TABLE rol_permiso (
 CREATE TABLE Usuario (
     COD_usuario INT,
     Nombre_ingreso_usuario VARCHAR(10),
-    contraseña_usuario VARCHAR(10),
+    contraseÃ±a_usuario VARCHAR(10),
     correo_electronico VARCHAR(10),
     COD_rol INT
 );
