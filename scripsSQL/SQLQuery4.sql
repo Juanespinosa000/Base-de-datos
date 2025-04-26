@@ -16,7 +16,7 @@ ALTER TABLE permiso ALTER COLUMN nombre_permiso VARCHAR(10) NOT NULL;
 ALTER TABLE permiso ALTER COLUMN descripcion_permiso VARCHAR(10) NOT NULL;
 ALTER TABLE Usuario ALTER COLUMN COD_usuario INT NOT NULL;
 ALTER TABLE Usuario ALTER COLUMN Nombre_ingreso_usuario VARCHAR(10) NOT NULL;
-ALTER TABLE Usuario ALTER COLUMN contraseña_usuario VARCHAR(10) NOT NULL;
+ALTER TABLE Usuario ALTER COLUMN contraseÃ±a_usuario VARCHAR(10) NOT NULL;
 ALTER TABLE Usuario ALTER COLUMN COD_rol INT NOT NULL;
 ALTER TABLE programa_academico ALTER COLUMN COD_programa INT NOT NULL;
 ALTER TABLE programa_academico ALTER COLUMN nombre_programa_academico VARCHAR(10) NOT NULL;
